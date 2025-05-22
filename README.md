@@ -4,7 +4,7 @@
 
 📫 akhilkumar0024@gmail.com  
 📍 Alappuzha, Kerala  
-🔗 [GitHub](https://github.com/demonknight119) | [Portfolio](https://deft-dieffenbachia-fdee24.netlify.app/)
+🔗 [GitHub](https://github.com/demonknight119) | [Portfolio](https://buisnessportfolio.vercel.app/)
 
 ---
 
